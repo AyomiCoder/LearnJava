@@ -51,6 +51,7 @@ public class UserAuthApp {
                 }
             }
         });
+        
 
         // Center the frame and make it visible
         frame.setLocationRelativeTo(null);
